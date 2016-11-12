@@ -1,0 +1,26 @@
+{
+  "name": "jsunittest",
+  "version": "1.0.0",
+  "description": "Unit testing for JavaScript based on the python unittest module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ouroboroscoding/jsunittest.git"
+  },
+  "keywords": [
+    "unittest",
+    "unit test",
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "OuroborosCoding <ouroborosocode@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ouroboroscoding/jsunittest/issues"
+  },
+  "dependencies": {
+  }
+}
